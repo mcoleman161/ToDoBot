@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#should we sync venv?
+bot-env
+
 # C extensions
 *.so
 
